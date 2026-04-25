@@ -59,5 +59,5 @@ MIT License
 
 👨‍💻 Author
 
-By Neuman
-GitHub: https://github.com/byneuman
+By Nueman
+GitHub: https://github.com/bynueman
